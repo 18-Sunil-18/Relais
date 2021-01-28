@@ -1,14 +1,8 @@
-void setup()
-
-{
-
+void setup(){
 pinMode(6, OUTPUT);
-
 }
 
-void loop()
-
-{
+void loop(){
 
 digitalWrite(6, HIGH); //An dieser Stelle würde das Relais einsschalten
 
