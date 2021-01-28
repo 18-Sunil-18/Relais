@@ -15,3 +15,5 @@ ACHTUNG: Es gibt Relaiskarten die schalten, wenn an dem Pin „IN“ GND angeleg
 An den unten Kontakten (A, B, C) kann ein elektrisches Gerät angeschlossen werden, bei dem ein höherer elektrischer Strom fließt, als es der Arduino liefern könnte. Zum Beispiel einen großen Elektromotor, eine große Lampe usw.
 
 Als Beispielcode kann in diesem Fall der einfache „Blink-“ Code verwendet werden. Anstelle der LED schließt man den Ausgabepin des Arduinoboards an den „Signal-„Pin der Relaiskarte an. Das Relais wird dann im Sekundentakt schalten.
+
+Weitere Infos unter: https://funduino.de/
